@@ -1,0 +1,1667 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fc",
+				"fclayer_3\tstatement"
+			],
+			[
+				"f1",
+				"fc1_weights"
+			],
+			[
+				"V",
+				"VALID"
+			],
+			[
+				"conv",
+				"conv3\tstatement"
+			],
+			[
+				"bia",
+				"bias_add"
+			],
+			[
+				"N",
+				"N_DEPTH_RADIUS\tstatement"
+			],
+			[
+				"Conv",
+				"Conv_Filter_Shape\tstatement"
+			],
+			[
+				"joint_coor",
+				"joint_coord_set_orig\tstatement"
+			],
+			[
+				"j",
+				"num_of_joints\tstatement"
+			],
+			[
+				"F",
+				"FLAGS\tclass"
+			],
+			[
+				"c",
+				"correct_and_draw\tfunction"
+			],
+			[
+				"jo",
+				"joints_heatmap"
+			],
+			[
+				"join",
+				"num_joints\tstatement"
+			],
+			[
+				"class",
+				"classmethod\tclass"
+			],
+			[
+				"model_",
+				"model_checkpoint_path"
+			],
+			[
+				"cpm",
+				"cpm_hand\tmodule"
+			],
+			[
+				"joint_cor",
+				"joint_coord\tstatement"
+			],
+			[
+				"cir",
+				"circles1\tstatement"
+			],
+			[
+				"output",
+				"output_node_names"
+			],
+			[
+				"input_",
+				"input_images\tstatement"
+			],
+			[
+				"En",
+				"Ensemble_data_generator\tmodule"
+			],
+			[
+				"cur_hand_ji",
+				"cur_hand_joints_y\tstatement"
+			],
+			[
+				"b",
+				"bboxpoint2\tstatement"
+			],
+			[
+				"bb",
+				"bboxpoint2\tstatement"
+			],
+			[
+				"E",
+				"EVENT_FLAG_ALTKEY"
+			],
+			[
+				"EVENT_LBUTTON",
+				"EVENT_LBUTTONUP"
+			],
+			[
+				"poin",
+				"point2\tstatement"
+			],
+			[
+				"bbo",
+				"bboxpoint2\tstatement"
+			],
+			[
+				"W",
+				"Write2lablefile\tfunction"
+			],
+			[
+				"wri",
+				"write\tfunction"
+			],
+			[
+				"joint",
+				"joints_num_str\tstatement"
+			],
+			[
+				"seq_l",
+				"seq_length"
+			],
+			[
+				"lab",
+				"labels"
+			],
+			[
+				"for",
+				"format_mrpc\tfunction"
+			],
+			[
+				"loa",
+				"logaddexp"
+			],
+			[
+				"current",
+				"current_layer_shape\tstatement"
+			],
+			[
+				"tota",
+				"total_shape\tstatement"
+			],
+			[
+				"input_bat",
+				"input_batch_shape_after\tstatement"
+			],
+			[
+				"cau",
+				"causal_conv"
+			],
+			[
+				"prin",
+				"print_shape\tstatement"
+			],
+			[
+				"enc",
+				"encoded_input\tstatement"
+			],
+			[
+				"encode",
+				"encoded_input_shape\tstatement"
+			],
+			[
+				"cha",
+				"channel_iter\tstatement"
+			],
+			[
+				"co",
+				"compress\tparam"
+			],
+			[
+				"data_with_pn",
+				"data_with_pn_cmp\tstatement"
+			],
+			[
+				"train",
+				"train_tmp\tstatement"
+			],
+			[
+				"data_with_",
+				"data_with_n_new\tstatement"
+			],
+			[
+				"va",
+				"ValueError\tclass"
+			],
+			[
+				"pro",
+				"process_num\tstatement"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"an",
+				"analyse_a\tfunction"
+			],
+			[
+				"FC_7",
+				"FC_7_0"
+			],
+			[
+				"Act_",
+				"Act_6_0"
+			],
+			[
+				"Act",
+				"Act-3_0"
+			],
+			[
+				"S",
+				"Storage_1_0"
+			],
+			[
+				"model",
+				"model_path\tparam"
+			],
+			[
+				"deq",
+				"deq_preci_dict\tstatement"
+			],
+			[
+				"pre",
+				"preci_tup\tstatement"
+			],
+			[
+				"modifi",
+				"modified_values"
+			],
+			[
+				"MOD",
+				"MODEL_DIR\tstatement"
+			],
+			[
+				"weights_",
+				"weights_max_abs\tstatement"
+			],
+			[
+				"MODEL_NAME",
+				"MODEL_NAME_PBTXT\tstatement"
+			],
+			[
+				"M",
+				"MODEL_DIR\tstatement"
+			],
+			[
+				"Mo",
+				"MODEL_NAME_PBTXT\tstatement"
+			],
+			[
+				"m_int",
+				"m_int8_sdim"
+			],
+			[
+				"quantize",
+				"quantized_key\tstatement"
+			],
+			[
+				"uint",
+				"uint8_key\tstatement"
+			],
+			[
+				"quant",
+				"quantized_key\tstatement"
+			],
+			[
+				"sub",
+				"sub_weights_path\tstatement"
+			],
+			[
+				"qu",
+				"quantized_path\tparam"
+			],
+			[
+				"load",
+				"load_quantized_weights\tfunction"
+			],
+			[
+				"weights",
+				"weights_path\tparam"
+			],
+			[
+				"q_uint",
+				"q_uint8_3\tstatement"
+			],
+			[
+				"q_uint8_",
+				"q_uint8_3"
+			],
+			[
+				"trans",
+				"transfomed_value"
+			],
+			[
+				"scale",
+				"Scale_single"
+			],
+			[
+				"matrix",
+				"matrix_fp32"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"q_int8",
+				"q_int8_2\tstatement"
+			],
+			[
+				"q_int",
+				"q_int8_2\tstatement"
+			],
+			[
+				"Zero_point",
+				"Zero_point_r"
+			],
+			[
+				"m_i",
+				"m_int8_sdim\tstatement"
+			],
+			[
+				"m_pr_",
+				"m_pr_tflite_2_sdim\tstatement"
+			],
+			[
+				"m_",
+				"m_pr_tflite_2\tstatement"
+			],
+			[
+				"mat",
+				"matplotlib\tmodule"
+			],
+			[
+				"quanti",
+				"quantized_int8"
+			],
+			[
+				"ma",
+				"matrix_fp32\tparam"
+			],
+			[
+				"wei",
+				"weight_int8\tstatement"
+			],
+			[
+				"None",
+				"None\tkeyword"
+			],
+			[
+				"s",
+				"squeeze"
+			],
+			[
+				"input",
+				"input_placeholder\tparam"
+			],
+			[
+				"ev",
+				"eval_single_pic_new\tmodule"
+			],
+			[
+				"len",
+				"len_prob_ls\tstatement"
+			],
+			[
+				"mu",
+				"multi_img_prob_ls_top_n\tstatement"
+			],
+			[
+				"ls",
+				"ls"
+			],
+			[
+				"write",
+				"writerow"
+			],
+			[
+				"fom",
+				"format\tfunction"
+			],
+			[
+				"Face_Dic",
+				"Face_Dict_Result\tstatement"
+			],
+			[
+				"ima",
+				"image_lib\tstatement"
+			],
+			[
+				"Ge",
+				"Get_Face_into_Lib\tfunction"
+			],
+			[
+				"Reg",
+				"Reg_Image_Root_Path\tstatement"
+			],
+			[
+				"sting",
+				"string_date"
+			],
+			[
+				"strin",
+				"string_date"
+			],
+			[
+				"subfo",
+				"subfolder_ls\tstatement"
+			],
+			[
+				"synset_to",
+				"synset_tohuman_dir\tstatement"
+			],
+			[
+				"base",
+				"base_dir\tstatement"
+			],
+			[
+				"imagenet",
+				"imagenet_lsvrc_2015_synsets"
+			],
+			[
+				"num",
+				"num_synsets_in_ilsvrc\tstatement"
+			],
+			[
+				"num_s",
+				"num_synsets_in_ilsvrc"
+			],
+			[
+				"da",
+				"dataset_utils"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/wanghongwei/WorkSpace/chip_support/AlexNet/models/alexnet.py",
+			"settings":
+			{
+				"buffer_size": 5642,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "import tensorflow as tf"
+			}
+		},
+		{
+			"file": "/home/wanghongwei/WorkSpace/chip_support/AlexNet/run_demo.py",
+			"settings":
+			{
+				"buffer_size": 1238,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/wanghongwei/WorkSpace/chip_support/AlexNet/config.py",
+			"settings":
+			{
+				"buffer_size": 127,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/python_tf.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python_tf.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/python_tf.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"syntax:pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"syntax",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"todo",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"syn",
+				"Set Syntax: Python"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"sy",
+				"Set Syntax: Python"
+			],
+			[
+				"syntax:python",
+				"Set Syntax: Python"
+			],
+			[
+				"set syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"syntax:py",
+				"Set Syntax: Python"
+			],
+			[
+				"packageresouce",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Python",
+				"Set Syntax: Python"
+			],
+			[
+				"syntax:",
+				"Set Syntax: Python"
+			],
+			[
+				"sntax:p",
+				"Set Syntax: Python"
+			],
+			[
+				"syntax:sh",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax:pytho",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 98.0,
+		"history":
+		[
+			"python -m flake8 --exclude '.sh'",
+			"flake8 --exclude train_mobilenet_on_imagenet.sh",
+			"import os, pprint; pprint.pprint(os.environ.copy())",
+			"import os",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/wanghongwei/WorkSpace/chip_support/AlexNet",
+		"/home/wanghongwei/WorkSpace/chip_support/AlexNet/models"
+	],
+	"file_history":
+	[
+		"/home/wanghongwei/WorkSpace/chip_support/AlexNet/__init__.py",
+		"/home/wanghongwei/WorkSpace/chip_support/AlexNet/models/__init__.py",
+		"/home/wanghongwei/WorkSpace/chip_support/AlexNet/prj/AlexNet.sublime-project",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/Ensemble_data_generator.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/imagewarp.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/run_training.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/utils/cpm_utils.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/data_maker/data_maker.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/utils/demo_fas.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/models/nets/cpm_hand.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/demo_cpm_hand_no_slim.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/utils/create_cpm_tfr_fulljoints.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/run_demo_hand_with_tracker.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/config.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/utils/imagewarp.py",
+		"/home/wanghongwei/demo_fas.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/utils/tracking_module.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/models/nets/cpm_body.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/utils/utils.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/run_freeze_graph.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/README.md",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/data_maker/README.md",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/demo_cpm_hand.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/demo_cpm_body.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/exp.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf-ref/CS175DeepLearning/convolutional-pose-machines-tensorflow/utils/utils.py",
+		"/home/wanghongwei/WorkSpace/Lingor/Lingor_SNN/phase_simulator/src/example/alexnet.py",
+		"/home/wanghongwei/.config/sublime-text-3/Packages/User/SublimeTmpl.sublime-settings",
+		"/home/wanghongwei/.config/sublime-text-3/Packages/SublimeTmpl/README.md",
+		"/home/wanghongwei/.config/sublime-text-3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+		"/home/wanghongwei/.config/sublime-text-3/Packages/SublimeTmpl/templates/python.tmpl",
+		"/home/wanghongwei/.config/sublime-text-3/Packages/SublimeTmpl/Main.sublime-menu",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/utils/tf_utils.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/run_training_distillation.py",
+		"/home/wanghongwei/.config/sublime-text-3/Packages/User/TodoReview.sublime-settings",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/hnm.py",
+		"/home/wanghongwei/.config/sublime-text-3/Packages/TodoReview/TodoReview.sublime-settings",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf-ref/CS175DeepLearning/project_cs175/run_demo_hand_with_tracker.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/models/nets/cpm_hand_slim.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/models/nets/cpm_body_slim.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/models/nets/__init__.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/models/__init__.py",
+		"/home/wanghongwei/WorkSpace/detect/cpm-tf/utils/__init__.py",
+		"/home/wanghongwei/WorkSpace/NLP/BERT/bert/useit.md",
+		"/home/wanghongwei/WorkSpace/NLP/BERT/bert/README.md",
+		"/home/wanghongwei/WorkSpace/NLP/BERT/bert/run_squad.py",
+		"/home/wanghongwei/WorkSpace/NLP/BERT/bert/modeling.py",
+		"/home/wanghongwei/WorkSpace/NLP/BERT/bert/tokenization.py",
+		"/home/wanghongwei/WorkSpace/NLP/BERT/bert/run_classifier.py",
+		"/home/wanghongwei/WorkSpace/NLP/BERT/bert/modeling_test.py",
+		"/home/wanghongwei/datasets/SQuAD1.1/evluate-v1.1.py",
+		"/home/wanghongwei/datasets/SQuAD1.1/dev-v1.1.json",
+		"/home/wanghongwei/datasets/SQuAD1.1/train-v1.1.json",
+		"/home/wanghongwei/WorkSpace/NLP/BERT/bert/evaluate-v2.0.py",
+		"/home/wanghongwei/datasets/SQuAD2.0/elmo-pred.json.json",
+		"/home/wanghongwei/WorkSpace/NLP/BERT/bert/run_classifier_with_tfhub.py",
+		"/home/wanghongwei/WorkSpace/Rong360/Rong360/code/run.py",
+		"/home/wanghongwei/WorkSpace/NLP/BERT/bert/predicting_movie_reviews_with_bert_on_tf_hub.ipynb",
+		"/home/wanghongwei/WorkSpace/NLP/BERT/bert/__init__.py",
+		"/home/wanghongwei/WorkSpace/NLP/BERT/bert/extract_features.py",
+		"/home/wanghongwei/WorkSpace/Rong360/Rong360/code/开源代码.py",
+		"/home/wanghongwei/WorkSpace/NLP/BERT/model/download_glue_data.py",
+		"/home/wanghongwei/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/wanghongwei/WorkSpace/NLP/BERT/bert/requirements.txt",
+		"/home/wanghongwei/Downloads/Anaconda3-5.2.0-Linux-x86_64.sh",
+		"/home/wanghongwei/WorkSpace/NLP/TTS/wavenet/tensorflow-wavenet/generate.py",
+		"/home/wanghongwei/.config/sublime-text-3/Packages/User/SublimeREPL.sublime-settings",
+		"/home/wanghongwei/WorkSpace/NLP/TTS/wavenet/tensorflow-wavenet/wavenet/model.py",
+		"/home/wanghongwei/WorkSpace/NLP/TTS/wavenet/tensorflow-wavenet/test/test_causal_conv.py",
+		"/home/wanghongwei/WorkSpace/NLP/TTS/wavenet/tensorflow-wavenet/train.py",
+		"/home/wanghongwei/WorkSpace/NLP/TTS/wavenet/tensorflow-wavenet/wavenet/audio_reader.py",
+		"/home/wanghongwei/WorkSpace/NLP/TTS/wavenet/tensorflow-wavenet/wavenet/ops.py",
+		"/home/wanghongwei/WorkSpace/NLP/TTS/wavenet/tensorflow-wavenet/README.md",
+		"/home/wanghongwei/WorkSpace/NLP/TTS/wavenet/tensorflow-wavenet/wavenet/__init__.py",
+		"/home/wanghongwei/WorkSpace/SNN/algorithm/Tensorflow_LIF_20190821/basic_classification_spike.py",
+		"/home/wanghongwei/WorkSpace/SNN/algorithm/Tensorflow_LIF_20190821/mat2npy.py",
+		"/home/wanghongwei/WorkSpace/SNN/algorithm/Tensorflow_LIF_20190821/data_process.py",
+		"/home/wanghongwei/WorkSpace/SNN/algorithm/Tensorflow_LIF_20190821/basic_classification_new.py",
+		"/home/wanghongwei/WorkSpace/SNN/algorithm/Tensorflow_LIF_20190821/basic_lif.py",
+		"/media/wanghongwei/新加卷/Work/tensorflow_envs/test_tensorflow/conv2d_with_no_frameworks_backup(2018.7.31).py",
+		"/home/wanghongwei/WorkSpace/SNN/file_process/mem_modify.py",
+		"/home/wanghongwei/WorkSpace/SNN/file_process/fakefilegen.py",
+		"/home/wanghongwei/WorkSpace/study/siammask/SiamMask/models/siammask.py",
+		"/home/wanghongwei/WorkSpace/SNN/refer/SNN_SIM_MC/fakefile/fakefilegen.py",
+		"/home/wanghongwei/WorkSpace/insightface/face_in_lib/face_in_lib.py",
+		"/home/wanghongwei/WorkSpace/insightface/face_in_lib_mxnet_qiyuanyuan/face_in_lib.py",
+		"/home/wanghongwei/WorkSpace/insightface/face_cali/test.py",
+		"/home/wanghongwei/WorkSpace/insightface/face_cali/face_in_lib.sh",
+		"/home/wanghongwei/WorkSpace/ASIC/prj/wu/test_aa_conv_act_split.py",
+		"/home/wanghongwei/WorkSpace/ASIC/prj/cpp_bak/cpp/lynxi_wrapper.cpp",
+		"/home/wanghongwei/WorkSpace/ASIC/prj/cpp/CMakeLists.txt",
+		"/home/wanghongwei/WorkSpace/ASIC/prj/cpp/test.dot",
+		"/home/wanghongwei/WorkSpace/ASIC/prj/cpp/phcore.dot",
+		"/home/wanghongwei/WorkSpace/ASIC/prj/cpp/phcore_route_pos",
+		"/home/wanghongwei/WorkSpace/ASIC/prj/cpp/build/log_interpreter.py",
+		"/home/wanghongwei/WorkSpace/tflite/prj/self_def/single_test.py",
+		"/home/wanghongwei/WorkSpace/tflite/prj/self_def/quantization_example.cc",
+		"/home/wanghongwei/WorkSpace/tflite/prj/self_def/change_pb_weight.py",
+		"/home/wanghongwei/WorkSpace/tflite/prj/self_def/modify_all_pb.py",
+		"/home/wanghongwei/WorkSpace/tflite/prj/self_def/quant_test.py",
+		"/home/wanghongwei/WorkSpace/tflite/prj/self_def/test.py",
+		"/home/wanghongwei/WorkSpace/tflite/prj/self_def/statcaffeparams.py",
+		"/home/wanghongwei/WorkSpace/tflite/prj/self_def/quant.py",
+		"/home/wanghongwei/WorkSpace/tflite/prj/self_def/network/caffe/Resnet-50/ReadCaffemodel.py",
+		"/home/wanghongwei/WorkSpace/SNN/SNN_SIM/Makefile",
+		"/home/wanghongwei/WorkSpace/SNN_SIM/Makefile",
+		"/home/wanghongwei/.config/sublime-text-3/Packages/PackageResourceViewer/README.md",
+		"/home/wanghongwei/.config/sublime-text-3/Packages/User/Terminality.sublime-settings",
+		"/home/wanghongwei/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/wanghongwei/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+		"/home/wanghongwei/.config/sublime-text-3/Packages/Terminality/Terminality.sublime-settings",
+		"/home/wanghongwei/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/wanghongwei/WorkSpace/tensorflow/tensorflow/contrib/lite/python/convert.py",
+		"/home/wanghongwei/.config/sublime-text-3/Packages/Python/Python.sublime-build",
+		"/home/wanghongwei/WorkSpace/insightface/face_in_lib/eval_single_pic_new.py",
+		"/home/wanghongwei/.config/sublime-text-3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/home/wanghongwei/.config/sublime-text-3/Packages/User/ConvertToUTF8.sublime-settings",
+		"/home/wanghongwei/WorkSpace/TensorRT/instance/MTCNN-Tf-Refact-181112-2/detect_face_image.py",
+		"/home/wanghongwei/WorkSpace/TensorRT/instance/MTCNN-Tf-Refact-181112-2/detect/mtcnn_detector.py",
+		"/home/wanghongwei/WorkSpace/TensorRT/instance/MTCNN-Tf-Refact-181112-2/detect/detector.py",
+		"/home/wanghongwei/WorkSpace/TensorRT/instance/MTCNN-Tf-Refact-181112-2/detect_face_video.py",
+		"/home/wanghongwei/WorkSpace/tflite/tools/读tflite/netron/comparity_int8_fp32.py",
+		"/home/wanghongwei/WorkSpace/tflite/读tflite/netron/comparity_int8_fp32.py",
+		"/home/wanghongwei/WorkSpace/TensorRT/reference/tftrt/tftrt_sample.py",
+		"/home/wanghongwei/WorkSpace/tflite/test/untitled.py",
+		"/home/wanghongwei/WorkSpace/tflite/test/lite_test.py",
+		"/home/wanghongwei/WorkSpace/test/tf_eager.py",
+		"/home/wanghongwei/WorkSpace/TensorRT/instance/resnet/resnet2int8.py"
+	],
+	"find":
+	{
+		"height": 51.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"weights",
+			"conv_weights",
+			"max_pool",
+			"truncated_normal",
+			"conv4",
+			"conv3",
+			"pretra",
+			"pre",
+			"resized",
+			"set_trace",
+			"draw_heatmap",
+			"correct_and_draw",
+			"draw_heatmap",
+			"correct_and_draw",
+			"self",
+			"circle",
+			"Roimg",
+			"tf_device",
+			"visualize_result",
+			"num",
+			"box_size",
+			"10",
+			"batch_size",
+			"batch",
+			"stage_heatmap_np",
+			"stage_heatmap",
+			"inference_type",
+			"stage_heatmap_np",
+			"predict_heatmap",
+			"limbs",
+			"test_img",
+			"hmap_size",
+			"FLAGS.joints",
+			"current_heatmap",
+			"current",
+			"model",
+			"test_center_map",
+			"global_variables_initializer",
+			"name",
+			"demo_stage_heatmaps",
+			"hstack",
+			"g_eval",
+			"test_writer",
+			"sess",
+			"stage_heatmap_np",
+			"limbs",
+			"model_path",
+			"output_node_names",
+			"circle",
+			"shape",
+			"append",
+			"demo_stage_heatmaps",
+			"float32",
+			"global_step",
+			"model_save_dir",
+			"restore(",
+			"sess",
+			"save(",
+			"save",
+			"saver.save",
+			"saver",
+			"model_path_suffix",
+			"model_save_dir",
+			"batch_joints_np",
+			"g_eval",
+			"g",
+			"_float64_feature",
+			"g_eval",
+			"tfr_writer",
+			")\n",
+			"batch_size",
+			"tfr_writer",
+			"SHOW_INFO",
+			"line",
+			"cur_hand_joints_x",
+			"line",
+			"tfr_file",
+			"M_PI",
+			"()",
+			"lable",
+			")\n",
+			"cv2",
+			"default_hand",
+			"g_eval",
+			"cam_num",
+			"VideoCapture",
+			"stage_heatmap",
+			"batch_heatmap",
+			"cmap_radius",
+			"center_map",
+			"cmap_placeholder",
+			"gt_hmap_placeholder",
+			"cmap_placeholder",
+			"FLAGS",
+			"input_images",
+			"load_weights_from_file",
+			"network",
+			"CoLA",
+			"cola",
+			"mn",
+			"mnli",
+			"cola",
+			"attention_layer",
+			"embedding_lookup",
+			"transformer_model",
+			"attention_layer",
+			"transformer_model",
+			"create_attention_mask_from_input_mask",
+			"attention_layer",
+			"get_train_examples",
+			"file_based_input_fn_builder",
+			"model_fn_builder",
+			"create_model",
+			"create_attention_mask_from_input_mask",
+			"input_shape",
+			"embedding_table",
+			"flat_input_ids",
+			"one_hot_input_ids",
+			"input_ids",
+			"embedding_postprocessor",
+			"layer_norm_and_dropout",
+			"create_model",
+			"embedding_postprocessor",
+			"embedding_lookup",
+			"model_fn_builder",
+			"create_model",
+			"model_fn_builder",
+			"input_fn_builder"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"weights",
+			"heatmap_size",
+			"FLAGS.num_of_joints"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/wanghongwei/WorkSpace/chip_support/AlexNet/models/alexnet.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5456,
+								5453
+							]
+						],
+						"settings":
+						{
+							"SL.101.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|5623c2918ded273c8b392e9b636d4c77e4f937ee09c988232d7c68ebc003af6f|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png"
+							],
+							"SL.111.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.121.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|50a8ab11c02746feda1b5ace7c40c47774e4e40d9ec213e850a7329123a359e4|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"SL.flake8.Highlights.|d9ecdb979e9b2d343959fcd39fdc70eff1dde37a4eb5a72bc1a6341c8954eb54|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.127.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.131.region_keys":
+							[
+								"SL.flake8.Highlights.|4398de3b34fdfb7f8dbe0b9da053253fb718081a9db366ac010ed3bd910af65a|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|9b5308b4e78b5331b6b6c5aa33c65105c4d9e2d2dc6fddd4612ebb902c492a24|region.greenish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|f0b0d21ad9fa314abf0551ea7f03674caddd653ae049ac46b3e11f6601e7ffb0|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png"
+							],
+							"SL.141.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|f0b0d21ad9fa314abf0551ea7f03674caddd653ae049ac46b3e11f6601e7ffb0|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png"
+							],
+							"SL.143.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.151.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|2fb0a6b9aa2a5046f2ada2a9d1c1c05caa6659918abefe64e869879ec3efba1e|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png"
+							],
+							"SL.152.region_keys":
+							[
+							],
+							"SL.161.region_keys":
+							[
+								"SL.flake8.Highlights.|23a589ec50232baef688695e3eaa6496c8631954802437cfcd0f9215d0b74bde|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|2d3a3930dd6b207af00ab519f14c8659e72d3d97e30206533f50f86a05d05fc5|region.greenish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|69754deefa0af5e07a3f6abc0098f7d8b5f700846fd3792c0cfd79879539eff3|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|5465def14584d2f01ffee42aa1f4984fbf702012f4f1c0967480622bc3f23ab2|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png"
+							],
+							"SL.170.region_keys":
+							[
+								"SL.flake8.Highlights.|9a87a7588e88e8e91f1e52e1d116614b6e8ba4940907c2011af66e2409ae982f|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions"
+							],
+							"SL.185.region_keys":
+							[
+								"SL.flake8.Highlights.|2fb0a6b9aa2a5046f2ada2a9d1c1c05caa6659918abefe64e869879ec3efba1e|region.greenish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png"
+							],
+							"SL.193.region_keys":
+							[
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|f9e10ec3ed0ca85f59b490b4eea68af748168aec2824914d428c4b78cc9532b0|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|55b6c4f784098cf3448ee63f2fd8177e0260b2314682b3e03deda3498adc4f13|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.203.region_keys":
+							[
+								"SL.flake8.Highlights.|2fb0a6b9aa2a5046f2ada2a9d1c1c05caa6659918abefe64e869879ec3efba1e|region.greenish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png"
+							],
+							"SL.209.region_keys":
+							[
+								"SL.flake8.Highlights.|81c4da6828207e64ce9f8e2e15506f71443fc2190283a92a167cdcad51127596|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|45746577ebe71e4f1bacb6dc2e6c480153a90fc43e13259e7b858b40fe137fd0|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.220.region_keys":
+							[
+								"SL.flake8.Highlights.|2fb0a6b9aa2a5046f2ada2a9d1c1c05caa6659918abefe64e869879ec3efba1e|region.greenish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png"
+							],
+							"SL.244.region_keys":
+							[
+								"SL.flake8.Highlights.|2fb0a6b9aa2a5046f2ada2a9d1c1c05caa6659918abefe64e869879ec3efba1e|region.greenish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png"
+							],
+							"SL.259.region_keys":
+							[
+								"SL.flake8.Highlights.|81c4da6828207e64ce9f8e2e15506f71443fc2190283a92a167cdcad51127596|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|45746577ebe71e4f1bacb6dc2e6c480153a90fc43e13259e7b858b40fe137fd0|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.26.region_keys":
+							[
+								"SL.flake8.Highlights.|f948e317dbdba3ffbb03c8cfd1e349e5d3c56fac0e12dd302c689d2bbb3f8865|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|ffc9aabc3425c419da5970101f8408f17a6a9edcec2e730af73bee3339a00e9c|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.27.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|5623c2918ded273c8b392e9b636d4c77e4f937ee09c988232d7c68ebc003af6f|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png"
+							],
+							"SL.275.region_keys":
+							[
+								"SL.flake8.Highlights.|81c4da6828207e64ce9f8e2e15506f71443fc2190283a92a167cdcad51127596|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|45746577ebe71e4f1bacb6dc2e6c480153a90fc43e13259e7b858b40fe137fd0|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.291.region_keys":
+							[
+								"SL.flake8.Highlights.|81c4da6828207e64ce9f8e2e15506f71443fc2190283a92a167cdcad51127596|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|45746577ebe71e4f1bacb6dc2e6c480153a90fc43e13259e7b858b40fe137fd0|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.376.region_keys":
+							[
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|5623c2918ded273c8b392e9b636d4c77e4f937ee09c988232d7c68ebc003af6f|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.393.region_keys":
+							[
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|5623c2918ded273c8b392e9b636d4c77e4f937ee09c988232d7c68ebc003af6f|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.42.region_keys":
+							[
+								"SL.flake8.Highlights.|f948e317dbdba3ffbb03c8cfd1e349e5d3c56fac0e12dd302c689d2bbb3f8865|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions"
+							],
+							"SL.427.region_keys":
+							[
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|5623c2918ded273c8b392e9b636d4c77e4f937ee09c988232d7c68ebc003af6f|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.44.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|5623c2918ded273c8b392e9b636d4c77e4f937ee09c988232d7c68ebc003af6f|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png"
+							],
+							"SL.447.region_keys":
+							[
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|5623c2918ded273c8b392e9b636d4c77e4f937ee09c988232d7c68ebc003af6f|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.60.region_keys":
+							[
+								"SL.flake8.Highlights.|f948e317dbdba3ffbb03c8cfd1e349e5d3c56fac0e12dd302c689d2bbb3f8865|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions"
+							],
+							"SL.62.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|5623c2918ded273c8b392e9b636d4c77e4f937ee09c988232d7c68ebc003af6f|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png"
+							],
+							"SL.79.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|5623c2918ded273c8b392e9b636d4c77e4f937ee09c988232d7c68ebc003af6f|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png"
+							],
+							"SL.90.region_keys":
+							[
+								"SL.flake8.Highlights.|f948e317dbdba3ffbb03c8cfd1e349e5d3c56fac0e12dd302c689d2bbb3f8865|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions"
+							],
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"auto_name": "import tensorflow as tf",
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "16a70459",
+							"origin_encoding": "ASCII",
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3330.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/wanghongwei/WorkSpace/chip_support/AlexNet/run_demo.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								404,
+								404
+							]
+						],
+						"settings":
+						{
+							"SL.122.region_keys":
+							[
+							],
+							"SL.152.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|f89d220d13eb69b3feb59e795e9142829da2940e41b2843b42744651792e575c|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png"
+							],
+							"SL.169.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|f89d220d13eb69b3feb59e795e9142829da2940e41b2843b42744651792e575c|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png"
+							],
+							"SL.186.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|f89d220d13eb69b3feb59e795e9142829da2940e41b2843b42744651792e575c|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png"
+							],
+							"SL.204.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|f89d220d13eb69b3feb59e795e9142829da2940e41b2843b42744651792e575c|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png"
+							],
+							"SL.211.region_keys":
+							[
+								"SL.flake8.Highlights.|84dd299d3812d598ad040a6a085b456a6fa4da63473952e269b5d4cb29ce33f0|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|1f29122dbfe11c1a9d76c692c065915cf72f95e786560656c971f83225b5d667|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|ffc9aabc3425c419da5970101f8408f17a6a9edcec2e730af73bee3339a00e9c|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.228.region_keys":
+							[
+								"SL.flake8.Highlights.|148044d68407a66af61e5c1636a5bc6fceea516676b2dc739e6598b9125ef5a7|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|1f29122dbfe11c1a9d76c692c065915cf72f95e786560656c971f83225b5d667|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions"
+							],
+							"SL.244.region_keys":
+							[
+								"SL.flake8.Highlights.|148044d68407a66af61e5c1636a5bc6fceea516676b2dc739e6598b9125ef5a7|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|1f29122dbfe11c1a9d76c692c065915cf72f95e786560656c971f83225b5d667|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions"
+							],
+							"SL.260.region_keys":
+							[
+								"SL.flake8.Highlights.|148044d68407a66af61e5c1636a5bc6fceea516676b2dc739e6598b9125ef5a7|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|1f29122dbfe11c1a9d76c692c065915cf72f95e786560656c971f83225b5d667|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions"
+							],
+							"SL.276.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|d6ca875e7a2294869c7d22e44f3d001730a584867ccb61ef67420b3d5b8346ed|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|d37d75a0501ae26efe7505ab930585d4e074c1e6cbe2a78c537c9b552276f64a|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|5551b5a92e40134361ef45f745e062ddfc4c16cf04fb2ad4e2fdd9443a2f0cd1|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"SL.flake8.Highlights.|109b27d380d2ebae43f04a6d202d687b749ace6ac9591ab7189e42b08f41c799|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.28.region_keys":
+							[
+							],
+							"SL.292.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|d6ca875e7a2294869c7d22e44f3d001730a584867ccb61ef67420b3d5b8346ed|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|d37d75a0501ae26efe7505ab930585d4e074c1e6cbe2a78c537c9b552276f64a|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|5551b5a92e40134361ef45f745e062ddfc4c16cf04fb2ad4e2fdd9443a2f0cd1|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"SL.flake8.Highlights.|109b27d380d2ebae43f04a6d202d687b749ace6ac9591ab7189e42b08f41c799|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.308.region_keys":
+							[
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|d6ca875e7a2294869c7d22e44f3d001730a584867ccb61ef67420b3d5b8346ed|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|d37d75a0501ae26efe7505ab930585d4e074c1e6cbe2a78c537c9b552276f64a|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|5551b5a92e40134361ef45f745e062ddfc4c16cf04fb2ad4e2fdd9443a2f0cd1|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"SL.flake8.Highlights.|109b27d380d2ebae43f04a6d202d687b749ace6ac9591ab7189e42b08f41c799|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.324.region_keys":
+							[
+								"SL.flake8.Highlights.|5d947fb110c79afc2eef1305443631c9e5bc99d0211d3bb45da121c6d42955ac|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|713cc6c96e0f4e691e6b28a02d8413d013f7af4fd0158e20edff9c57423f1a8f|region.greenish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"SL.flake8.Highlights.|f66b2d9a3311e604fcc41915842e3a507dacd9c4865ddf5bdaac789c51602adc|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|74b5a4872d8d323ca47825356bacce80581046b2548d1f7949b975ae336715cd|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|3b976265a1b0c58bab84d55d8a5409c7fe412b70b33340ec04aaec3e16cabc08|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.343.region_keys":
+							[
+								"SL.flake8.Highlights.|70b5e19b9679dfce9d8d87c795be1593b708b60e1a598449f459aa597ff63196|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|e0978953e97f90d6c1dd66b5def43a8bba260c7490afe6bd5253e37c36fe028c|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.360.region_keys":
+							[
+								"SL.flake8.Highlights.|70b5e19b9679dfce9d8d87c795be1593b708b60e1a598449f459aa597ff63196|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|bb1e854e2abb78e1fa2ed6cf962c9f6beec35ea3ab17dbdf6b2c2b3315123a26|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.377.region_keys":
+							[
+								"SL.flake8.Highlights.|f66b2d9a3311e604fcc41915842e3a507dacd9c4865ddf5bdaac789c51602adc|region.greenish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|69864446d636a2e90a4564ce1cfa5e3f2bd6366ade21be00f5871d93e9212f66|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|d857c527ccc418514bab71990e4075752dabefe48e50d910bafff979c1c8d562|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"SL.flake8.Highlights.|713cc6c96e0f4e691e6b28a02d8413d013f7af4fd0158e20edff9c57423f1a8f|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.394.region_keys":
+							[
+								"SL.flake8.Highlights.|9f67a925d15dcc72bc8484ff0f28f32b88b463b2892126a83590c3c55729c022|region.greenish markup.error.sublime_linter|32",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"SL.flake8.Highlights.|1c8a4c51600ce36f9694116a2023362667cc21e0594ba14d844ee3531007196a|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Highlights.|570a48660d391a2e892408e414b884d71edfec922b9a84014b7c2fd99add93ce|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.411.region_keys":
+							[
+								"SL.flake8.Highlights.|a9d547858283e26a459e053445739bb2b2660b543e461f1c32b964130d6db1f1|region.greenish markup.error.sublime_linter|32",
+								"SL.flake8.Gutter.|region.greenish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Default/triangle.png",
+								"sublime_linter.protected_regions",
+								"SL.flake8.Highlights.|570a48660d391a2e892408e414b884d71edfec922b9a84014b7c2fd99add93ce|region.greenish markup.error.sublime_linter|32"
+							],
+							"SL.428.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.448.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.45.region_keys":
+							[
+							],
+							"SL.63.region_keys":
+							[
+							],
+							"SL.80.region_keys":
+							[
+							],
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "ce8fc052",
+							"origin_encoding": "ASCII",
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/wanghongwei/WorkSpace/chip_support/AlexNet/config.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"SL.123.region_keys":
+							[
+							],
+							"SL.153.region_keys":
+							[
+							],
+							"SL.170.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.187.region_keys":
+							[
+							],
+							"SL.325.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.449.region_keys":
+							[
+							],
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"auto_name": "",
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "f4e9161f",
+							"spell_check": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 309.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 509.0
+	},
+	"output.exec":
+	{
+		"height": 305.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 119.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "AlexNet.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/.config/sublime-text-3/Packages/User/TodoReview.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/WorkSpace/read_graph/prj/freeze_graph.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
