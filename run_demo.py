@@ -1,4 +1,3 @@
-#!/home/wanghongwei/anaconda3/envs/tf113/bin/python
 import tensorflow as tf
 import importlib
 from config import FLAGS
