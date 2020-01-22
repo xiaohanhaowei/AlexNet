@@ -5,8 +5,5 @@ This is a implement of an AlexNet architecture, the same as the [paper](https://
 ## Inference
 It can be inferenced by running `run_demo.py` and can generate the `ckpt`
 files, and can be viewed by either `netron` and `tensorboard`.
-## Training
+## Training  
 There is no scripts discribe how to train yet. 
-=======
-AlexNet architecture
-
