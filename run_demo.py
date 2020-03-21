@@ -4,6 +4,10 @@ from config import FLAGS
 import numpy as np
 alex_model = importlib.import_module('models.' + 'alexnet')
 from tensorflow.compat.v1 import InteractiveSession
+from tensorflow.python.client import timeline
+
+run_options = tf.RunOptions(trace_level=tf.RunOptions.FULL_TRACE)
+run_metadata = tf.RunMetadata()
 
 
 def run_demo():
@@ -20,9 +24,16 @@ def run_demo():
     config.gpu_options.allow_growth = True
     sess = InteractiveSession(config=config)
     sess.run(init)  
-    output_value = sess.run([model.output, ], feed_dict={model.input_images: images})
+    output_value = sess.run([model.output, ], 
+                            feed_dict={model.input_images: images}, 
+                            options=run_options, 
+                            run_metadata=run_metadata)
     print(output_value)
     saver.save(sess, save_path=FLAGS.save_model_path)
+    tl = timeline.Timeline(run_metadata.step_stats)
+    ctf = tl.generate_chrome_trace_format()
+    with open('./models/timeline.json', 'w') as f:
+        f.write(ctf)
 
 
 if __name__ == '__main__':

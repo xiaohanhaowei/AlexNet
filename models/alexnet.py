@@ -1,6 +1,5 @@
-
+# coding=utf-8
 import tensorflow as tf
-
 K_BIAS = 2
 N_DEPTH_RADIUS = 5
 ALPHA = 1e-4
@@ -105,10 +104,10 @@ class AlexNet():
             shape = [-1, weights['fc1'].get_shape().as_list()[0]]
             feature_map = tf.reshape(conv5, shape)
             fclayer_1 = tf.matmul(feature_map, weights['fc1'])
-            fclayer_1 = tf.nn.dropout(fclayer_1, keep_prob=0.5)
+            # fclayer_1 = tf.nn.dropout(fclayer_1, keep_prob=0.5)
         with tf.name_scope('fc2') as scope:
             fclayer_2 = tf.matmul(fclayer_1, weights['fc2'])
-            fclayer_2 = tf.nn.dropout(fclayer_2, keep_prob=0.5)
+            # fclayer_2 = tf.nn.dropout(fclayer_2, keep_prob=0.5)
         with tf.name_scope('out') as scope:
             fclayer_3 = tf.matmul(fclayer_2, weights['fc3'])
             self.output = tf.nn.softmax(fclayer_3, name='output_node')
